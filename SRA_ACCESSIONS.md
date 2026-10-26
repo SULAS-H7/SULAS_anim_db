@@ -108,4 +108,6 @@ The samples are included in Miura et al., 2026 (manuscript submitted).
 - BioProject: [PRJNA1548214](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1548214)
 - SRA Run accessions: `SRR41292295`–`SRR41292324`
 
+NOTE: These sequencing data have been submitted to the SRA but are not yet publicly available. Read-only access is available via the following: [reviewer link](https://dataview.ncbi.nlm.nih.gov/object/PRJNA1548214?reviewer=oesu5a5abjv3hom24l8dhoufjd).
+
 

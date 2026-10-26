@@ -68,6 +68,8 @@ The samples are included in Miura et al., 2026 (manuscript submitted).
 - BioProject: [PRJNA1548863](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1548863)
 - SRA Run accessions: `SRR41317419`–`SRR41317420`, `SRR41317423`, `SRR41317434`–`SRR41317435`
 
+NOTE: These sequencing data have been submitted to the SRA but are not yet publicly available. Read-only access is available via the following:[reviewer link](https://dataview.ncbi.nlm.nih.gov/object/PRJNA1548863?reviewer=293qe53apgpnk3soglch0f70kk)
+
 ## Dhole (*Cuon alpinus*)
 
 The samples are included in Miura et al., 2026 (manuscript submitted).
@@ -75,6 +77,8 @@ The samples are included in Miura et al., 2026 (manuscript submitted).
 - Samples: 3
 - BioProject: [PRJNA1548863](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1548863)
 - SRA Run accessions: `SRR41317416`–`SRR41317418`
+
+NOTE: These sequencing data have been submitted to the SRA but are not yet publicly available. Read-only access is available via the following:[reviewer link](https://dataview.ncbi.nlm.nih.gov/object/PRJNA1548863?reviewer=293qe53apgpnk3soglch0f70kk)
 
 ## South American fur seal (*Arctocephalus australis*)
 
@@ -84,6 +88,8 @@ The samples are included in Miura et al., 2026 (manuscript submitted).
 - BioProject: [PRJNA1548863](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1548863)
 - SRA Run accessions: `SRR41317414`–`SRR41317415`
 
+NOTE: These sequencing data have been submitted to the SRA but are not yet publicly available. Read-only access is available via the following:[reviewer link](https://dataview.ncbi.nlm.nih.gov/object/PRJNA1548863?reviewer=293qe53apgpnk3soglch0f70kk)
+
 ## Cattle (Holstein) (*Bos taurus*)
 
 The samples are included in Miura et al., 2026 (manuscript submitted).
@@ -92,6 +98,8 @@ The samples are included in Miura et al., 2026 (manuscript submitted).
 - BioProject: [PRJNA1548863](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1548863)
 - SRA Run accessions: `SRR41317424`–`SRR41317433`
 
+NOTE: These sequencing data have been submitted to the SRA but are not yet publicly available. Read-only access is available via the following:[reviewer link](https://dataview.ncbi.nlm.nih.gov/object/PRJNA1548863?reviewer=293qe53apgpnk3soglch0f70kk)
+
 ## Wolf (*Canis lupus*)
 
 The samples are included in Miura et al., 2026 (manuscript submitted).
@@ -99,6 +107,8 @@ The samples are included in Miura et al., 2026 (manuscript submitted).
 - Samples: 2
 - BioProject: [PRJNA1548863](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1548863)
 - SRA Run accessions: `SRR41317421`–`SRR41317422`
+
+NOTE: These sequencing data have been submitted to the SRA but are not yet publicly available. Read-only access is available via the following:[reviewer link](https://dataview.ncbi.nlm.nih.gov/object/PRJNA1548863?reviewer=293qe53apgpnk3soglch0f70kk)
 
 ## Goodfellow’s tree kangaroo (*Dendrolagus goodfellowi*)
 
